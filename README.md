@@ -40,6 +40,5 @@ Make sure you have the following installed:
 - Well-organized file structure for easy customization
 
 
----
 Happy coding! 🚀
 
