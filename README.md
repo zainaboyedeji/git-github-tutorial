@@ -25,7 +25,7 @@ Make sure you have the following installed:
    ```
 2. Navigate into the project folder:
    ```sh
-   cd my-github-tutorial
+   cd git-github-tutorial
    ```
 3. Open `index.html` in your browser to view the page.
 
@@ -39,16 +39,6 @@ Make sure you have the following installed:
 - Responsive CSS starter template
 - Well-organized file structure for easy customization
 
-## 🤝 Contributing
-Want to contribute? Follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Added a new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a Pull Request
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Happy coding! 🚀
